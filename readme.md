@@ -1,7 +1,15 @@
 [//]: # (my description md file)
 
 # ellystargram
-> print("Hello, developers!")
+> print("Hello, developers!")  # in Python
+> 
+> println("Hello, developers!")  // in Kotlin
+> 
+> printf("Hello, developers!\n");  // in C
+> 
+> print("Hello, developers!")  // in Swift
+>
+> System.out.println("Hello, developers!");  // in Java
 
 ## 📚 Index
 - [Introduction](#-introduction)
