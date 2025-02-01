@@ -26,10 +26,3 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALLinners&repo=allinner&theme=dark#gh-dark-mode-only&show_owner=true" style="max-width: 100%;">
     </div>
 </div>
-
-## SOME FACTS
-> * MacBook Pro 14-inch (M3Pro) 사용자
-> * JetBrains 제품을 좋아함
-> * Kotlin Lover
-> * KR Employee(대전 오시면 밥 사드림 ㅋ)
-> * 中野三玖の夫
